@@ -1,0 +1,3 @@
+[weblate]
+filemask = src/locales/*.json
+source_language = en
