@@ -1,9 +1,10 @@
 <template>
-  <div id="app" style="text-align:center; margin-top:40px;">
-    <h1>{{ $t('title') }}</h1>
-    <p>{{ $t('description') }}</p>
-    <p>{{ $t('para') }}</p>
-    <p>{{ $t('info') }}</p>
+  <div id="app" style="text-align: center; margin-top: 40px">
+    <h1>{{ $t("title") }}</h1>
+    <p>{{ $t("description") }}</p>
+    <p>{{ $t("para") }}</p>
+    <p>{{ $t("info") }}</p>
+    <p>{{ $t("testing") }}</p>
 
     <button @click="$i18n.locale = 'en'">EN</button>
     <button @click="$i18n.locale = 'fr'">FR</button>
@@ -12,7 +13,7 @@
 
 <script>
 export default {
-  name: 'App'
+  name: "App",
 };
 </script>
 
