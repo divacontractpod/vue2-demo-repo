@@ -3,5 +3,6 @@
   "description": "This is a Vue 2 Weblate demo",
   "para":"Football (or soccer) is the world's most popular sport, featuring two teams of 11 players aiming to score by moving a ball into the opposing goal without using hands or arms, played by millions globally. Major competitions include the FIFA World Cup, with the 2026 edition set for 48 teams, and elite league club matches.",
   "info":" Vue  is an open-source JavaScript framework used to build interactive user interfaces (UIs) and single-page applications (SPAs).Created by Evan You in 2014, it is widely known as the 'Progressive Framework' because it is designed to be incrementally adoptable. You can use it as a small library to add a bit of interactivity to an existing page or as a full-featured framework to power massive, complex applications.",
-  "testing": "TESTING TESTING"
+  "testing": "TESTING TESTING",
+  "Diva":"Basketball is a team sport in which two teams of five players each (excluding substitutes), opposing one another on a rectangular court, compete with the "
 }
