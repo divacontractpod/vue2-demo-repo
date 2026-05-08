@@ -6,6 +6,7 @@
     <p>{{ $t("info") }}</p>
     <p>{{ $t("testing") }}</p>
     <p>{{ $t("Diva") }}</p>
+    <p>{{ $t("text") }}</p>
 
     <button @click="$i18n.locale = 'en'">EN</button>
     <button @click="$i18n.locale = 'fr'">FR</button>
